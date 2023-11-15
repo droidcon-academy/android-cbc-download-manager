@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DownloadManager</string>
+    <string name="storage_permission_required">Storage Permission is required!</string>
+</resources>
