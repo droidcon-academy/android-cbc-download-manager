@@ -1,1 +1,1 @@
-https://files2.freedownloadmanager.org/6/latest/fdm_x64_setup.exe
+https://download-cdn.jetbrains.com/idea/ideaIU-2023.2.5.exe
